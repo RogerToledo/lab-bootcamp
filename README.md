@@ -1,7 +1,7 @@
 # Lab Project DIO - Bootcamp
 
 ## Description
-On this project, I developed a simple application that manages a bootcamp's students and their courses. The application allows for the registration of students, courses, and the association of students with courses.
+On this project, I developed a simple application that manages a bootcamp's devs and their courses. The application allows for the registration of students, courses, and the association of students with courses.
 
 ## Project features
 - Register bootcamp
